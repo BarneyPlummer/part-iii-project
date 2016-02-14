@@ -1,0 +1,22 @@
+To make this report (repostskeleton.tex) into a .dvi file, type:
+
+[name@machine directory]$ latex reportskeleton
+
+You may need to do this a couple of times if the table of contents, figure labels or bibliography have changed - LaTeX will prompt you to do this by saying:
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Just run LaTeX a couple of times until this warning goes away.
+
+The to update the bibliography (necessary the first time you compile the document and then each time you refer to a new paper) type
+
+[name@machine directory]$ bibtex reportskeleton
+
+
+To convert a .dvi into a .pdf or a .ps, use:
+
+[name@machine directory]$ dvipdfm reportskeleton
+
+or
+
+[name@machine directory]$ dvips reportskeleton

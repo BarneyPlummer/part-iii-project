@@ -1,0 +1,4 @@
+r temp/tempXJ/*.SAC
+decimate 5; decimate 4; decimate 2
+write over
+quit

@@ -1,0 +1,9 @@
+#!/bin/bash
+DATE=$(date)
+echo $DATE > preprocess.log
+for i in *.SAC
+	do
+	echo Processing $i >> preprocess.log
+	./noise_preprocess $i
+	rm $i
+done

@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.4)
+The top-level auxiliary file: reportskeleton.aux
+The style file: abbrvnat.bst
+Database file #1: shortbib.bib
+Warning--can't use both volume and number fields in song97
+You've used 2 entries,
+            2774 wiz_defined-function locations,
+            610 strings with 4852 characters,
+and the built_in function-call counts, 995 in all, are:
+= -- 97
+> -- 31
+< -- 4
++ -- 11
+- -- 9
+* -- 63
+:= -- 146
+add.period$ -- 7
+call.type$ -- 2
+change.case$ -- 7
+chr.to.int$ -- 2
+cite$ -- 5
+duplicate$ -- 53
+empty$ -- 90
+format.name$ -- 13
+if$ -- 220
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 2
+newline$ -- 18
+num.names$ -- 8
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 43
+stack$ -- 0
+substring$ -- 53
+swap$ -- 15
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 1
+while$ -- 10
+width$ -- 0
+write$ -- 35
+(There was 1 warning)

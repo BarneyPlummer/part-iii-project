@@ -1,0 +1,4 @@
+r temp/*.SAC
+merge
+write over
+quit
